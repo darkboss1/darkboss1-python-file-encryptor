@@ -3,7 +3,7 @@
 
 **darkboss1 Advanced Python Code Encryption Tool for Termux & Linux**  
 Secure any `.py` file using 3-layered encryption: PyArmor, Cython, and Base64.  
-Coded with love by [darkboss1 (Ak47)](https://www.facebook.com/cybercrackerbd) | [darkboss1 Squad](https://github.com/darkboss1)
+Coded with love by [darkboss1 (Ak47)](https://www.facebook.com/cybercrackervai) | [darkboss1 Squad](https://github.com/darkboss1)
 
 ---
 
